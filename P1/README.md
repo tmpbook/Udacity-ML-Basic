@@ -65,8 +65,7 @@ Google 表格：[stroopdata.csv](https://docs.google.com/spreadsheets/d/1CzUzdRu
 
 > 为数据集组计算了描述性统计分析，包括至少一项中心性测量和一项可变性测量
 
-
-详见Google 表格：[stroopdata.csv](https://docs.google.com/spreadsheets/d/1CzUzdRuVc0o6r9jTI1dDdNqfbx-0VVxldx59VbfZ-DM/edit?usp=sharing)
+详见Google 表格：[stroopdata.csv](https://docs.google.com/spreadsheets/d/1CzUzdRuVc0o6r9jTI1dDdNqfbx-0VVxldx59VbfZ-DM/edit?usp=sharing)
 ### Q4: 绘制数据图
 
 > 创建了展示数据的一项或两项可视化，包括用注释说明图中可观察到的信息。
@@ -79,9 +78,9 @@ Google 表格：[stroopdata.csv](https://docs.google.com/spreadsheets/d/1CzUzdRu
 - t 统计量：-8.02
 - t 临界值：±2.06
 
-t 统计量落在左侧临界区内，说明这种差异具有极其显著的统计学意义，拒绝零假设
+t 统计量落在左侧临界区内，说明这种差异具有极其显著的统计学意义，拒绝零假设
 
-因为落在左侧，说明很大概率 μ1 < μ2
+因为落在左侧，说明很大概率 μ1 < μ2
 
 p < 0.05（p < 0.0001）
 
