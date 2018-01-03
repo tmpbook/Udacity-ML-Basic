@@ -107,11 +107,6 @@ Google 表格：[stroopdata.csv](https://docs.google.com/spreadsheets/d/1CzUzdRu
 
 > 符合要求：正确执行并报告了一项统计检验，包括检验统计量、P 值和检验结果。检验结果针对执行的试验任务进行了解释。
 
-统计量：
-
-- t 临界值
-- 差异的样本标准偏差
-
 计算 t 统计量的过程
 
 1. t 临界值
@@ -170,6 +165,8 @@ cohen's d = -1.637219949（说明相差1.64个差异标准差）
 
 ### 一些有用的网站
 
-[网站一](http://www.socscistatistics.com/pvalues/tdistribution.aspx)
+[网站一](http://www.socscistatistics.com/pvalues/tdistribution.aspx) - 统计学计算1
 
-[网站二](https://www.graphpad.com/quickcalcs/pValue1/)
+[网站二](https://www.graphpad.com/quickcalcs/pValue1/) - 统计学计算2
+
+[网站三](http://latex.codecogs.com/) - LaTeX 转图片
